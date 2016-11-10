@@ -1,0 +1,9 @@
+User-agent: Yandex
+  Disallow:
+  Host: hitachi-ukraine.org
+  
+  User-agent:* 
+  Disallow:
+  
+  Sitemap: http://hitachi-ukraine.org/sitemap.xml.gz
+  Sitemap: http://hitachi-ukraine.org/sitemap.xml

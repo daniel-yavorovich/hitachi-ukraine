@@ -1,0 +1,66 @@
+
+  
+  
+  
+  
+  /*
+       FILE ARCHIVED ON 10:07:16 Sep 23, 2013 AND RETRIEVED FROM THE
+       INTERNET ARCHIVE ON 19:30:25 May 13, 2014.
+       JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+  
+       ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+       SECTION 108(a)(3)).
+  */
+  /* min-width in IE6 */
+  * html #wrapper {
+    border-left: 950px solid #fff;
+    zoom: 1;
+  }
+  
+  * html #min-width {
+    margin-left: -950px;
+    position: relative;
+    zoom: 1;
+  }
+  
+  #sidebar-left {
+    /*padding-top: 5px;*/
+    float: left;
+    display: inline;
+  }
+  
+  #sidebar-right {
+    /*padding-top: 5px;   */
+    display: inline;
+  }
+  
+  #content {
+    /*padding-top: 0px;
+    padding-left: 10px;*/
+    display: inline;
+  }
+  
+  #content ul, #content ol {
+    padding: 0;
+    margin-left: 25px;
+  }
+  
+  #header {
+    /*margin-bottom: 11px;*/
+  }
+  
+  * html #wrapper {
+    height: 100%;
+  }
+  
+  #content-wrapper {
+    margin-bottom: 3em;
+  }
+  
+  #content blockquote {
+    padding: 2px 10px 0px 8px;
+  }
+  
+  .hasFloat {
+    zoom: 1;
+  }

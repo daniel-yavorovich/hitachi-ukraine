@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://hitachi-ukraine.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.0.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" -->
+<!-- generated-on="24.01.2011 3:20 pm" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://hitachi-ukraine.org/</loc>
+		<lastmod>2010-10-29T10:11:16+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://hitachi-ukraine.org/services/almaznoe-burenie-otverstij/</loc>
+		<lastmod>2011-01-24T15:19:55+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/services/almaznaja-rezka-proemov/</loc>
+		<lastmod>2010-12-27T10:42:37+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/services/ysilenie-proemov/</loc>
+		<lastmod>2010-12-08T13:28:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/services/sverlenie-otverstij-v-betone/</loc>
+		<lastmod>2010-12-03T14:26:56+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/services/almaznoe-sverlenie-otverstij/</loc>
+		<lastmod>2010-12-03T14:21:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/video/</loc>
+		<lastmod>2010-11-22T12:39:27+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/photo/</loc>
+		<lastmod>2010-11-16T10:03:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/services/demontazh-zdanij-sten/</loc>
+		<lastmod>2010-10-27T09:26:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/services/</loc>
+		<lastmod>2010-10-13T13:40:57+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 156: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://hitachi-ukraine.org/de/</loc>
+		<lastmod>2010-09-24T13:14:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/contacts/</loc>
+		<lastmod>2010-09-15T14:01:44+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://hitachi-ukraine.org/price/</loc>
+		<lastmod>2010-09-13T13:00:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
